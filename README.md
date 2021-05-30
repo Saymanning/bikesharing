@@ -6,10 +6,7 @@ Results: Using the visualizations you have in your Tableau Story, describe the r
   - There are at least seven visualizations for the NYC Citibike analysis
   - There is a description of the results for each visualization
 
-https://public.tableau.com/views/NYCBikeSharingAnalysis_16223955114250/NYCBikeSharing?:language=en-US&:display_count=n&:origin=viz_share_link<img width="676" alt="Start_Station_id_Gender" src="https://user-images.githubusercontent.com/78699465/120114055-5bb18280-c14b-11eb-8bdf-da3f680c1e3a.png">
-<img width="676" alt="Start_Station_id_Gender" src="https://user-images.githubusercontent.com/78699465/120114067-623ffa00-c14b-11eb-90ea-df7be09cf3b7.png">
-<img width="674" alt="End_Station_ID_Gender" src="https://user-images.githubusercontent.com/78699465/120114079-6ec45280-c14b-11eb-9a62-5439dc899782.png">
-
+https://public.tableau.com/views/NYCBikeSharingAnalysis_16223955114250/NYCBikeSharing?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
 This line chart shows that the duration of most trips are short, between 5-6 minutes.
@@ -58,6 +55,9 @@ User Type by Gender
 
 <img width="682" alt="User_Type_by_Gender" src="https://user-images.githubusercontent.com/78699465/120111125-af699f00-c13e-11eb-84cb-96f373ebb687.png">
 
+<img width="676" alt="Start_Station_id_Gender" src="https://user-images.githubusercontent.com/78699465/120114067-623ffa00-c14b-11eb-90ea-df7be09cf3b7.png">
+
+<img width="674" alt="End_Station_ID_Gender" src="https://user-images.githubusercontent.com/78699465/120114079-6ec45280-c14b-11eb-9a62-5439dc899782.png">
 
 
 
