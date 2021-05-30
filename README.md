@@ -1,4 +1,4 @@
-# Bikesharing Analysis
+# NYC Bikesharing Analysis
 
 ## Overview of the analysis: 
 Explain the purpose of this analysis.
@@ -7,7 +7,7 @@ Explain the purpose of this analysis.
 Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
  
 
-[link to dashboard](https://public.tableau.com/views/NYCBikeSharingAnalysis_16223955114250/NYCBikeSharing?:language=en-US&:display_count=n&:origin=viz_share_link)
+[link to NYC Bikesharing dashboard](https://public.tableau.com/views/NYCBikeSharingAnalysis_16223955114250/NYCBikeSharing?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 <img width="554" alt="Checkout_Times_for_Users" src="https://user-images.githubusercontent.com/78699465/120108983-8abcf980-c135-11eb-9691-422df66e2b85.png">
@@ -57,7 +57,7 @@ Using the visualizations you have in your Tableau Story, describe the results of
 
 
  # Summary:
- Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+ Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset. Deeper dive into gender. Weather and time of year. One way vs. Round trips
 
 <img width="682" alt="User_Type_by_Gender" src="https://user-images.githubusercontent.com/78699465/120111125-af699f00-c13e-11eb-84cb-96f373ebb687.png">
 
