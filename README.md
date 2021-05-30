@@ -11,6 +11,7 @@ Using the visualizations you have in your Tableau Story, describe the results of
 
 
 <img width="554" alt="Checkout_Times_for_Users" src="https://user-images.githubusercontent.com/78699465/120108983-8abcf980-c135-11eb-9691-422df66e2b85.png">
+
 **This line chart shows that the duration of most trips are short, between 5-6 minutes.**
 
 
