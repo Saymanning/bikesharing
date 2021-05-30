@@ -3,8 +3,7 @@
 Overview of the analysis: Explain the purpose of this analysis.
 
 Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
-  - There are at least seven visualizations for the NYC Citibike analysis
-  - There is a description of the results for each visualization
+ 
 
 [link to dashboard](https://public.tableau.com/views/NYCBikeSharingAnalysis_16223955114250/NYCBikeSharing?:language=en-US&:display_count=n&:origin=viz_share_link)
 
