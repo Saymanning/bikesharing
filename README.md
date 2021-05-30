@@ -9,9 +9,12 @@ The purpose of this analysis is to convince investors that a bike-sharing progra
 See the entire NYC Biking Sharing Analysis Story here: [link to NYC Bikesharing dashboard](https://public.tableau.com/views/NYCBikeSharingAnalysis_16223955114250/NYCBikeSharing?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
+
+
 <img width="554" alt="Checkout_Times_for_Users" src="https://user-images.githubusercontent.com/78699465/120108983-8abcf980-c135-11eb-9691-422df66e2b85.png">
 
 **The chart above shows that the duration of most trips are short, between 5-6 minutes.**
+
 
 
 
@@ -21,14 +24,17 @@ See the entire NYC Biking Sharing Analysis Story here: [link to NYC Bikesharing 
 
 
 
+
 <img width="674" alt="Checkout_Times_by_Gender" src="https://user-images.githubusercontent.com/78699465/120109004-a0caba00-c135-11eb-9d43-ee0a0178317a.png">
 
 **The line chart above is broken down by gender. It shows that use of bikes by males use the bikes most frequently.**
 
 
+
 <img width="665" alt="Trip_by_Weekday_per_Hour" src="https://user-images.githubusercontent.com/78699465/120109044-bb9d2e80-c135-11eb-970e-2de319f48c51.png">
 
 **This heat map peak bike usage is during usual commute hours.**
+
 
 
 
@@ -38,14 +44,17 @@ See the entire NYC Biking Sharing Analysis Story here: [link to NYC Bikesharing 
 
 
 
+
 <img width="670" alt="User_Trips_Gender_Weekday" src="https://user-images.githubusercontent.com/78699465/120109091-facb7f80-c135-11eb-8dd6-643f01e87e77.png">
 
 **This heat map shows that more riders are subscribers than customers. The majority of riders for both subscribers and customers are male.**
 
 
+
 <img width="677" alt="Top_Starting_Locations" src="https://user-images.githubusercontent.com/78699465/120110273-d1612280-c13a-11eb-9084-8fa4416e9e8a.png">
 
 **Top Trip Start Locations**
+
 
 
 
