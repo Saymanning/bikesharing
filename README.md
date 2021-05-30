@@ -6,7 +6,7 @@ Results: Using the visualizations you have in your Tableau Story, describe the r
   - There are at least seven visualizations for the NYC Citibike analysis
   - There is a description of the results for each visualization
 
-[https://public.tableau.com/views/NYCBikeSharingAnalysis_16223955114250/NYCBikeSharing?:language=en-US&:display_count=n&:origin=viz_share_link]("https://public.tableau.com/views/NYCBikeSharingAnalysis_16223955114250/NYCBikeSharing?:language=en-US&:display_count=n&:origin=viz_share_link")
+[link to dashboard](https://public.tableau.com/views/NYCBikeSharingAnalysis_16223955114250/NYCBikeSharing?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 This line chart shows that the duration of most trips are short, between 5-6 minutes.
 
