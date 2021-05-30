@@ -1,13 +1,12 @@
 # NYC Bikesharing Analysis
 
 ## Overview of the analysis: 
-Explain the purpose of this analysis.
+The purpose of this analysis is to convince investors that a bike-sharing program in Des Moines is a solid business proposal using Tableau to create visualizations of the data set for presentation.
 
 # Results:
-Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
  
 
-[link to NYC Bikesharing dashboard](https://public.tableau.com/views/NYCBikeSharingAnalysis_16223955114250/NYCBikeSharing?:language=en-US&:display_count=n&:origin=viz_share_link)
+See the entire NYC Biking Sharing Analysis Story here: [link to NYC Bikesharing dashboard](https://public.tableau.com/views/NYCBikeSharingAnalysis_16223955114250/NYCBikeSharing?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 <img width="554" alt="Checkout_Times_for_Users" src="https://user-images.githubusercontent.com/78699465/120108983-8abcf980-c135-11eb-9691-422df66e2b85.png">
@@ -57,7 +56,7 @@ Using the visualizations you have in your Tableau Story, describe the results of
 
 
  # Summary:
- Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset. Deeper dive into gender. Weather and time of year. One way vs. Round trips
+ A deeper dive into the trends regarding gender would be useful for marketing strategy. See the charts below for some examples. Another suggestion is to look the data on Oneway vs. Round trips to determine the how     number of bikes needed for stations varies. Also, creating a usage chart for each month is recommended to see bike usage data for the entire year.
 
 <img width="682" alt="User_Type_by_Gender" src="https://user-images.githubusercontent.com/78699465/120111125-af699f00-c13e-11eb-84cb-96f373ebb687.png">
 
